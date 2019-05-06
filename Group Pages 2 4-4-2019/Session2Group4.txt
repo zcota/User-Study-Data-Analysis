@@ -1,0 +1,326 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Group 4</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/heroic-features.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+   <!-- Page Content -->
+  <div class="container">
+  
+   <h1 class="display-3">User Study Session 2</h1>
+
+    <!-- Jumbotron Header -->
+    <header class="jumbotron my-4">
+  
+      <p class="lead">Thank you for joining this session via Zoom. Please share your screen.</p>
+ 
+ <p class="lead">You need <b>50 minutes</b> to complete this session in one sitting and free of interruption. Unless you encounter technical difficulties, you should not ask the researcher questions. If you do need to ask a question, use the chat. 
+<br></p>
+  
+
+    </header>
+
+<h2 class="display-3">Instructions</h2>
+
+<p> </p>
+
+<p class="lead"> <b>1. Watch the demo videos covering how to use each of the 4 tools to add terms.</br>  You will <b>NOT</b> be able to go back to the videos once you finish step 1.
+
+ 
+
+</b> <br></p>
+<p class="lead"> <b>Videos:</b></p>
+
+    <!-- Page Features -->
+    <div class="row text-center">
+
+ <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          
+          <div class="card-body">
+            <h4 class="card-title">Wizard</h4>
+           
+          </div>
+          <div class="card-footer">
+             <p class="card-text">Watch before doing the task</br></p>
+            <a href="https://www.youtube.com/watch?v=6oMmKp4G1Js" class="btn btn-primary">Wizard Video</a>
+          </div>
+        </div>
+      </div>
+
+         <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+       
+          <div class="card-body">
+            <h4 class="card-title">Quick Form</h4>
+            <p class="card-text"></p>
+          
+          </div>
+          <div class="card-footer">
+             <p class="card-text">Watch before doing the task</br></p>
+         
+             
+            <a href="https://www.youtube.com/watch?v=jNyglaeDz1E&t=8s" class="btn btn-primary">Quick Form Video</a>
+         
+          </div>
+          
+       
+        </div>
+      </div>
+
+
+<div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+       
+          <div class="card-body">
+            <h4 class="card-title">Wiki Data</h4>
+         
+          </div>
+          <div class="card-footer">
+             <p class="card-text">Watch before doing the task</br></p>
+            <a href="https://youtu.be/5tGV7VzABv8" class="btn btn-primary">Wiki Data Video</a>
+          </div>
+        </div>
+      </div>
+
+
+     <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+      
+          <div class="card-body">
+            <h4 class="card-title">WebProtege</h4>
+          
+          </div>
+          <div class="card-footer">
+             <p class="card-text">Watch before doing the task</br></p>
+            <a href="https://www.youtube.com/watch?v=SxGg_b8FRvM" class="btn btn-primary">WebProtege Video</a>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+  
+      
+
+
+ 
+    </div>
+    <!-- /.row -->
+
+
+<p> </p>
+
+
+<p class="lead"> <b>2. Read the information about "leaf blade" below. You will need to use this information to add the term to the ontology. </b></p>
+
+<p> </p>
+
+    <!-- Jumbotron Header -->
+    <header class="jumbotron my-4">
+  
+ <h5 class="card-title">What you know about <b>"leaf blade":</h5>
+ 
+
+<ul class="lead">
+  <li><b><i>Definition:</i> </b>Leaf blade is the expanded, often flattened portion of  the leaf</li>
+  <li><b><i>Part of:</i></b> Add "leaf" is part of - All leaf blades are part of some leaves, and “leaf” is in the CAREX Ontology (material anatomical entity > leaf)</li>
+  <li><b><i>Has part:</i></b> Add "leaf apex" as has part - All leaf blades have a leaf apex, which is the outer end of a leaf. “leaf apex” is not in the CAREX Ontology</li>
+  <li><b><i>Synonym:</i></b> Add "leaf-blade" as synonym - "Leaf-blade" is already in the CAREX Ontology (material anatomical entity > blade > leaf-blade)  and it means the same as "leaf blade" </li>
+  <li><b><i>Sentence using the term:</i></b> "leaves : widest leaf_blades 2 – 4mm wide"</li>
+  <li><b><i>Sentence describing a taxon:</i> </b>Carex spicata </li>
+</ul>
+ 
+
+
+    </header> 
+
+
+<p class="lead"> <b> 3.
+Add the term <b>"leaf blade"</b> to the CAREX Ontology.  You will add the same term in each of the tools below.</b> </p>
+<p class="lead"><b> - Refer to the information about "leaf blade" from step 2 to help you.</b></p>
+<p></p>
+
+<p class="lead"><b> - You have <b>5 minutes</b> to do the task as best as you can.</b> </p>
+ 
+<p class="lead"><b> - After <b>5 minutes</b> stop and go to the survey for the tool you just finished using. Complete in order starting with Wizard (from left to right).</b></p>
+
+<p></p>
+
+
+ <p class="lead"> <b>*Login Info:</b> Wiki Data & WebProtege require passwords, see samples below (<i>remember to use your assigned id</i>)</b></p>
+
+                    <p class="lead"><b><i>Wiki Data</i> -</b></br><b>User: S101ua</b> (capital S, your id,"ua" at the end)</br>
+<b>Password: S101 </b> (capital S and your id)
+</p>
+
+                  <p class="lead"><b><i>WebProtege</i> -</b></br>
+
+<b>User:s 101</b></br>
+
+<b>Password: s101</b>(Both user name & password are your subject id, use lowercase)</br>
+</p>
+
+ 
+
+<p></p>
+<p class="lead"> <b>Tool Webpages:</b></p>
+ 
+ <p></p>
+ 
+    <!-- Page Features -->
+ 
+  <div class="row text-center">
+ 
+
+
+ <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          
+          <div class="card-body">
+            <h4 class="card-title">Wizard</h4>
+           
+          </div>
+          <div class="card-footer">
+           
+            <a href="http://shark.sbs.arizona.edu/add2ontologymodular/public/wizard/leaf/hong/carex" class="btn btn-primary">Wizard Page</a>
+
+<p></p>
+
+ <a href="https://uarizona.co1.qualtrics.com/jfe/form/SV_bm6MOexXp5Qv7y5" class="btn btn-primary">Survey - Wizard</a>
+
+          </div>
+        </div>
+      </div>
+
+
+
+           <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+       
+          <div class="card-body">
+            <h4 class="card-title">Quick Form</h4>
+            <p class="card-text"></p>
+          
+          </div>
+          <div class="card-footer">
+          
+         
+             
+            <a href="http://shark.sbs.arizona.edu/add2ontologymodular/public/quick-form/leaf/hong/carex" class="btn btn-primary">Quick Form Page</a>
+<p></p>
+
+<a href="https://uarizona.co1.qualtrics.com/jfe/form/SV_38WrmnykB1PAvJP" class="btn btn-primary">Survey - Quick Form </a>
+         
+          </div>
+          
+       
+        </div>
+      </div>
+
+     
+
+<div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+       
+          <div class="card-body">
+            <h4 class="card-title">Wiki Data</h4>
+            
+   
+         
+          </div>
+          <div class="card-footer">
+
+
+            
+            <a href="http://shark.sbs.arizona.edu/add2ontologymodular/public/terms-wiki/leaf/hong/carex" class="btn btn-primary">Wiki Data Page</a>
+            
+ 
+<p></p>
+
+ <a href="https://uarizona.co1.qualtrics.com/jfe/form/SV_8p2ZJWyt3nXzVAN" class="btn btn-primary">Survey - Wiki Data</a>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+      
+          <div class="card-body">
+            <h4 class="card-title">WebProtege</h4>
+          
+          </div>
+          <div class="card-footer">
+     
+            <a href="http://shark.sbs.arizona.edu/add2ontologymodular/public/web-protege/leaf/hong/carex" class="btn btn-primary">WebProtege Page</a>
+
+<p></p>
+
+
+<a href="https://uarizona.co1.qualtrics.com/jfe/form/SV_3DG1jpQ9aPCKyrz" class="btn btn-primary">Survey - WebProtege </a>
+          </div>
+        </div>
+      </div>
+
+
+
+ 
+
+
+    </div>
+    <!-- /.row -->
+
+<p class="lead"> <b>4. Answer <a href="https://uarizona.co1.qualtrics.com/jfe/form/SV_eS9sHMRuB0JqnSl">Session 2 Questionnaire.</a> </b></br>
+Comparison survey of the tools based on your experience, do not go back to the videos. </p>
+
+<p> </p>
+
+<p>*Let the researcher know in the Chat when you're done. <br></p>
+
+<p></p>
+
+
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white"></p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html><p class="lead">
